@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyPDF2
+sentence-transformers
+scikit-learn
+nltk
+rouge-score
+ollama
